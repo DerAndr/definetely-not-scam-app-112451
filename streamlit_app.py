@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import random
 
-st.title("✨🥸✨ Your best frient App - validate if your bank data was stolen ! ✨🥸✨")
+st.title("✨🥸✨ Your best friend App - validate if your bank data was stolen ! ✨🥸✨")
 st.write(
     "It is important to be sure that all your data is secured!"
 )
